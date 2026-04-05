@@ -1,4 +1,4 @@
-# 🚑 Smart Emergency Routing System (Spring Boot Backend)
+# 🚑 Smart Emergency Routing System (Basic Spring Boot Backend Project)
 
 ## 📌 Overview
 
