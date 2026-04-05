@@ -84,6 +84,20 @@ smart-emergency-routing-system/
 └── target/
 
 ```
+---
+
+## 📸 Screenshots and Demonstration
+
+The `images/` directory contains screenshots captured during API testing and system validation.
+
+These images document the step-by-step execution of core functionalities, including:
+
+- Adding hospitals and patients  
+- Triggering the assignment process  
+- Verifying responses from REST endpoints  
+- Observing database updates after assignment  
+
+This serves as a visual record of the system's behavior and demonstrates the successful implementation of backend logic.
 
 ---
 
