@@ -83,6 +83,8 @@ smart-emergency-routing-system/
 │
 └── target/
 
+```
+
 ---
 
 ## 🧠 System Architecture
